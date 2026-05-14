@@ -1,0 +1,6 @@
+*.exe
+*.out
+build/
+.DS_Store
+Account.txt
+Account_temp.txt
