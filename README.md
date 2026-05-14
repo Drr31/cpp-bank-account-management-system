@@ -67,15 +67,6 @@ Welcome to Bank Account Management System
 
 ---
 
-## Example Account Data
-
-```text
-1001 password123 5000
-1002 securepass 3200
-```
-
----
-
 ## How to Compile and Run
 
 ### Linux / macOS
